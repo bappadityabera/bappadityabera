@@ -29,7 +29,7 @@
 
 
 
-![Bappditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bappadityaber&theme=algolia&show_icons=true)
+![Bappditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bappadityabera&theme=algolia&show_icons=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bappadityabera&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bappadityabera&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
